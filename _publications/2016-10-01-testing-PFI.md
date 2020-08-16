@@ -1,15 +1,15 @@
 ---
-title: "Testing Psychological Forward Induction and the Updating of Beliefs in the Lost Wallet Game"
+title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2016-10-01-testing-PFI
-excerpt: 'This paper studies psychological forward induction and the updating of beliefs in the lost wallet game (Dufwenberg & Gneezy, 2000), which is required to derive a prediction for guilt averse agents. Our experiment tests whether the second movers psychologically induct forward and update their beliefs after observing their paired first mover's decision by eliciting beliefs with different second mover knowledge of first mover decision, depending on treatment. We find that second movers do update their beliefs conditional on receiving information on the first mover’s action, supporting psychological forward induction.'
-date: 2016-10-01
-venue: 'Journal of Economic Psychology'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167487015300313'
-citation: 'Woods, D. & Servátka, M.  (2016). &quot;Testing Psychological Forward Induction and the Updating of Beliefs in the Lost Wallet Game.&quot; <i>Journal of Economic Psychology</i>. 56:(116-125).'
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-Test
+This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0167487015300313)
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: 'Woods, D. & Servátka, M.  (2016). "Testing Psychological Forward Induction and the Updating of Beliefs in the Lost Wallet Game." <i>Journal of Economic Psychology</i>. 56:(116-125).'
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
