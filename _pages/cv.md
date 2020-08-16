@@ -39,28 +39,28 @@ Research Grants
 Honors and Awards
 ======
 * Purdue University:
- * Ross Fellowship, 2015.
- * PGSG Professional Grant, 2017.
- * Krannert Certificate for Distinguished Teaching, 2017.
- * Bilsand Dissertation Fellowship, 2018.
+	* Ross Fellowship, 2015.
+	* PGSG Professional Grant, 2017.
+	* Krannert Certificate for Distinguished Teaching, 2017.
+	* Bilsand Dissertation Fellowship, 2018.
  
 * University of Canterbury:
- * University Prizes, 2014.
- * UC Master's Scholarship, 2011.
- * Summer Research Scholarship, 2011 and 2009.
- * Economics Department Book Prize, 2008.
- * Madam Tiong Guok Hua Memorial Prize in Economics, 2007.
+	* University Prizes, 2014.
+	* UC Master's Scholarship, 2011.
+	* Summer Research Scholarship, 2011 and 2009.
+	* Economics Department Book Prize, 2008.
+	* Madam Tiong Guok Hua Memorial Prize in Economics, 2007.
  
- * Misc:
-  * NZAE: Graduate Study Award, 2013.
-  * NZQA: NCEA Scholarship in Economics and Statistics, 2006.
+* Misc:
+	* NZAE: Graduate Study Award, 2013.
+	* NZQA: NCEA Scholarship in Economics and Statistics, 2006.
 
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Teaching
+# ======
+  # <ul>{% for post in site.teaching %}
+    # {% include archive-single-cv.html %}
+  # {% endfor %}</ul>
   
 Conferences
 ======
