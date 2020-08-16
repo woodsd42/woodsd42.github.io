@@ -1,7 +1,7 @@
 ---
 title: "Testing Psychological Forward Induction and the Updating of Beliefs in the Lost Wallet Game"
 collection: publications
-permalink: /publication/2010-10-01-test-1
+permalink: /publication/2016-10-01-testing-PFI
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
