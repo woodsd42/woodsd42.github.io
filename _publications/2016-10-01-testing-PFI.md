@@ -11,4 +11,4 @@ citation: 'Woods, D. & Servátka, M.  (2016). &quot;Testing Psychological Forwar
 Test
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0167487015300313)
-Recommended citation: 'Woods, D. & Servátka, M.  (2016). &quot;Testing Psychological Forward Induction and the Updating of Beliefs in the Lost Wallet Game.&quot; <i>Journal of Economic Psychology</i>. 56:(116-125).'
+Recommended citation: 'Woods, D. & Servátka, M.  (2016). "Testing Psychological Forward Induction and the Updating of Beliefs in the Lost Wallet Game." <i>Journal of Economic Psychology</i>. 56:(116-125).'
