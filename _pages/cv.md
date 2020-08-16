@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Click Here for a PDF version](http://academicpages.github.io/files/Academic_CV___dwoods.pdf)
+[Click Here for a PDF version](http://woodsd42.github.io/files/Academic_CV___dwoods.pdf)
 
 Education
 ======
