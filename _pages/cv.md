@@ -55,12 +55,6 @@ Honors and Awards
 	* NZAE: Graduate Study Award, 2013.
 	* NZQA: NCEA Scholarship in Economics and Statistics, 2006.
 
-
-# Teaching
-# ======
-  # <ul>{% for post in site.teaching %}
-    # {% include archive-single-cv.html %}
-  # {% endfor %}</ul>
   
 Conferences
 ======
