@@ -11,8 +11,8 @@ author_profile: true
 
 Working Papers:
 ------
-* Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab” (with Stanton Hudja).
-* “Network Defense and Behavioral Biases:  An Experimental Study” (with Mustafa Abdallah, Saurabh Bagchi, Shreyas Sundaram, and Timothy Cason).
+* "Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab" (with Stanton Hudja).
+* "Network Defense and Behavioral Biases:  An Experimental Study" (with Mustafa Abdallah, Saurabh Bagchi, Shreyas Sundaram, and Timothy Cason).
 
 Publications:
 ------
@@ -20,5 +20,5 @@ Publications:
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
