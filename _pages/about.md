@@ -11,4 +11,4 @@ My name is Daniel Woods, and I am a PhD candidate at Purdue University.  My main
 
 I am on the academic job market in the 2020-2021 season.  I will be interviewing remotely at any interested party's convenience.
 
-Feel free to check out my CV and Research, or to contact me [via email](woods104@purdue.edu).
+Feel free to check out my CV and Research, or to contact me [via email](mailto:woods104@purdue.edu).
