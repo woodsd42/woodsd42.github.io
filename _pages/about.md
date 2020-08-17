@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Website under construction
+My name is Daniel Woods, and I am a PhD candidate at Purdue University.  My main areas of research are in Experimental and Behavioral Economics, and I am also interested in Industrial Organization and Macroeconomics.
+
+I am on the academic job market in the 2020-2021 season.  I will be interviewing remotely at any interested party's convenience.
+
+Feel free to check out my CV and Research, and to contact me at woods104@purdue.edu.
