@@ -27,9 +27,8 @@ Publications
   
 Working Papers
 ======
-* "Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab” (with Stanton Hudja)
-* "Network Defense and Behavioral Biases: An Experimental Study" (with Mustafa
-Abdallah, Saurabh Bagchi, Shreyas Sundaram, and Timothy Cason).
+* [Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
+* [Network Defense and Behavioral Biases:  An Experimental Study](https://www.krannert.purdue.edu/faculty/cason/papers/Network_defense_exp.pdf) (with Mustafa Abdallah, Saurabh Bagchi, Shreyas Sundaram, and Timothy Cason).
   
 Research Grants
 ======
