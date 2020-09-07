@@ -27,7 +27,7 @@ Publications
   
 Working Papers
 ======
-* [Network Defense and Behavioral Biases:  An Experimental Study](https://www.krannert.purdue.edu/faculty/cason/papers/Network_defense_exp.pdf) (with Mustafa Abdallah, Saurabh Bagchi, Shreyas Sundaram, and Timothy Cason).  **Revise and Resubmit at Experimental Economics**
+* [Network Defense and Behavioral Biases:  An Experimental Study](https://www.krannert.purdue.edu/faculty/cason/papers/Network_defense_exp.pdf) (with Mustafa Abdallah, Saurabh Bagchi, Shreyas Sundaram, and Timothy Cason).  (*Revise and Resubmit at ***Experimental Economics***)
 * [Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
   
 Research Grants
@@ -37,24 +37,24 @@ Research Grants
 
 Teaching 
 =======
-* Interests
-	* Behavioral/Experimental Economics
-	* Game Theory
-	* Industrial Organization
-	* Microeconomics
-	* Computational Economics
-	* Macroeconomics
+* Interests:
+	* Behavioral/Experimental Economics.
+	* Game Theory.
+	* Industrial Organization.
+	* Microeconomics.
+	* Computational Economics.
+	* Macroeconomics.
 
 * Experience:
-	* Instructor 
+	* Instructor:
 		* Game Theory, 2017 - Purdue University.
-	* Teaching Assistant
-		* Game Theory, 2018 - Purdue University
-		* Intermediate Macroeconomics, 2017 - Purdue University
-		* Principles of Microeconomics, 2015 - Purdue University
-		* Game Theory, 2012, 2013 - University of Canterbury
-		* Introduction to Microeconomics, 2010 - University of Canterbury
-		* Introduction to Macroeconomics, 2010 - University of Canterbury
+	* Teaching Assistant:
+		* Game Theory, 2018 - Purdue University.
+		* Intermediate Macroeconomics, 2017 - Purdue University.
+		* Principles of Microeconomics, 2015 - Purdue University.
+		* Game Theory, 2012, 2013 - University of Canterbury.
+		* Introduction to Microeconomics, 2010 - University of Canterbury.
+		* Introduction to Macroeconomics, 2010 - University of Canterbury.
 
 Honors and Awards
 ======
