@@ -18,6 +18,11 @@ Education
 * *Master of Commerce with Distinction* in Economics, University of Canterbury, 2013.
 * *B.Sci. (Hons.) - First Class* in Economics, University of Canterbury, 2010.
 
+Research Interests
+=======
+* Experimental Economics
+* Behavioral Economics
+* Computational Economics
 
 Publications
 ======
