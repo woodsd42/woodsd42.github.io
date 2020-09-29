@@ -36,7 +36,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}{{ post.citation }}{% endif %}
+    {% if post.venue%}<br>{{ post.citation }}{% endif %}
     </li>
  </article>
 </div>
