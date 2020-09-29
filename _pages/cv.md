@@ -83,7 +83,8 @@ Honors and Awards
   
 Conferences
 ======
-* Presenting *Using QRE Simulations for Power Analysis* at the ESA Global Meeting 2020.
+* Presenting *Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab* at the [ESA JMC Seminar Series](http://esajobmarketseminar.online/)
+* Presented *Using QRE Simulations for Power Analysis* at the ESA Global Meeting 2020.
 * Presented *Competition in Information: An Experimental Test of Bayesian Persuasion in Search Markets* at the Southern Economic Association Annual Meetings 2018, the Australia New Zealand Workshop in Experimental Economics 2018, and the ESA World Meeting 2019.
 * Presented *Does Self-serving Generosity Diminish Reciprocal Behavior?* at the Bratislava Economic Meeting 2014, the Asia-Pacific Meeting of the Economic Science Association 2014, and the 54th New Zealand Association of Economists Annual Conference 2013.
 * Presented *Testing Psychological Forward Induction in the Lost Wallet Game* at the 53rd New Zealand Association of Economists Annual Conference 2012.
