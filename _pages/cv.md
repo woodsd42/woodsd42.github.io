@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Currently Pursuing: *Doctorate of Philosophy (GPA: 3.93)* in Economics, Purdue University, expected completion May 2021.
+* Currently Pursuing: *Doctorate of Philosophy* in Economics, Purdue University, expected completion May 2021.
 * *Master of Commerce with Distinction* in Economics, University of Canterbury, 2013.
 * *B.Sci. (Hons.) - First Class* in Economics, University of Canterbury, 2010.
 
@@ -23,6 +23,7 @@ Research Interests
 * Experimental Economics
 * Behavioral Economics
 * Computational Economics
+* Industrial Organization
 
 Publications
 ======
@@ -42,7 +43,7 @@ Research Grants
 
 Teaching 
 =======
-* Interests:
+* Teaching Interests:
 	* Behavioral/Experimental Economics.
 	* Game Theory.
 	* Industrial Organization.
@@ -52,7 +53,7 @@ Teaching
 
 * Experience:
 	* Instructor:
-		* Game Theory, 2017 - Purdue University.
+		* Game Theory, 2017 - Purdue University. (received Krannert Certificate for Distinguished Teaching)
 	* Teaching Assistant:
 		* Game Theory, 2018 - Purdue University.
 		* Intermediate Macroeconomics, 2017 - Purdue University.
