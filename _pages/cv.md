@@ -14,9 +14,9 @@ redirect_from:
 
 Education
 ======
-* Currently Pursuing: *Doctorate of Philosophy* in Economics, Purdue University, expected completion May 2021.
-* *Master of Commerce with Distinction* in Economics, University of Canterbury, 2013.
-* *B.Sci. (Hons.) - First Class* in Economics, University of Canterbury, 2010.
+* Currently Pursuing: *Doctorate of Philosophy* in Economics, Purdue University, 2015-2021 (expected completion in May).
+* *Master of Commerce with Distinction* in Economics, University of Canterbury, 2012-2013.
+* *B.Sci. (Hons.) - First Class* in Economics, University of Canterbury, 2006-2010.
 
 Research Interests
 =======
