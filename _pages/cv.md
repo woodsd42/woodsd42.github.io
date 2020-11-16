@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Click Here for a PDF version](http://woodsd42.github.io/files/Academic_CV___dwoods.pdf)
+[Click Here for a PDF version](http://woodsd42.github.io/files/Job_Market_CV___dwoods.pdf)
 
 Education
 ======
@@ -24,6 +24,10 @@ Research Interests
 * Behavioral Economics
 * Computational Economics
 * Industrial Organization
+
+Job Market Paper
+======
+* [Improving Ex-ante Power Analysis With Quantal Response Simulations](https://woodsd42.github.io/files/JMP.pdf)
 
 Publications
 ======
@@ -49,7 +53,6 @@ Teaching
 	* Industrial Organization.
 	* Microeconomics.
 	* Computational Economics.
-	* Macroeconomics.
 
 * Experience:
 	* Instructor:
