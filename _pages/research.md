@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Working Papers:
 ------
-* [Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
+* [Exploration Versus Exploitation: A Laboratory Test of the Single-Agent Exponential Bandit Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
 
 Works in Progress:
 ------
