@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel Woods"
 title_separator          : "-"
 name                     : &name "Daniel Woods"
-description              : &description "PhD Candidate at Purdue University"
+description              : &description "Postdoctoral Researcher at the University of Innsbruck"
 url                      : https://woodsd42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "woodsd42.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Daniel Woods"
   avatar           : "d_woods.jpg"
   bio              : ""
-  location         : "West Lafayette, IN"
+  location         : "Innsbruck, Austria"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gQ-e6pEAAAAJ&hl=en"
