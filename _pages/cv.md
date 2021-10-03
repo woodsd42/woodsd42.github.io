@@ -9,12 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-
-[Click Here for a PDF version](http://woodsd42.github.io/files/Job_Market_CV___dwoods.pdf)
-
 Education
 ======
-* Currently Pursuing: *Doctorate of Philosophy* in Economics, Purdue University, 2015-2021 (expected completion in May).
+* *Doctorate of Philosophy* in Economics, Purdue University, 2015-2021.
 * *Master of Commerce with Distinction* in Economics, University of Canterbury, 2012-2013.
 * *B.Sci. (Hons.) - First Class* in Economics, University of Canterbury, 2006-2010.
 
@@ -25,10 +22,6 @@ Research Interests
 * Computational Economics
 * Industrial Organization
 
-Job Market Paper
-======
-* [Improving Ex-ante Power Analysis With Quantal Response Simulations](https://woodsd42.github.io/files/JMP.pdf)
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -37,8 +30,7 @@ Publications
   
 Working Papers
 ======
-* [Network Defense and Behavioral Biases:  An Experimental Study](https://www.krannert.purdue.edu/faculty/cason/papers/Network_defense_exp.pdf) (with Mustafa Abdallah, Saurabh Bagchi, Shreyas Sundaram, and Timothy Cason).  (*Revise and Resubmit at **Experimental Economics***)
-* [Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
+* [Exploration Versus Exploitation: A Laboratory Testof the Single-Agent Exponential Bandit Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
   
 Research Grants
 ======
