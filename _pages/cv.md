@@ -30,6 +30,7 @@ Publications
   
 Working Papers
 ======
+* [Strategies in the Multi-armed Bandit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942930) (with [Stanton Hudja](http://stantonhudja.com)).
 * [Exploration Versus Exploitation: A Laboratory Test of the Single-Agent Exponential Bandit Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
   
 Research Grants
