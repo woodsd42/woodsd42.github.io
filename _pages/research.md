@@ -16,11 +16,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Working Papers:
 ------
 * [Strategies in the Multi-armed Bandit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942930) (with [Stanton Hudja](http://stantonhudja.com)).
-* [Exploration Versus Exploitation: A Laboratory Test of the Single-Agent Exponential Bandit Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
-
-Works in Progress:
-------
-* Using QRE Simulations for Power Analysis.
 
 Publications:
 ------
@@ -30,3 +25,7 @@ Publications:
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  Works in Progress:
+------
+* Using QRE Simulations for Power Analysis.
