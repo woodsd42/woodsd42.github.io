@@ -24,6 +24,7 @@ Research Interests
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -31,10 +32,10 @@ Publications
 Working Papers
 ======
 * [Strategies in the Multi-armed Bandit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942930) (with [Stanton Hudja](http://stantonhudja.com)).
-* [Exploration Versus Exploitation: A Laboratory Test of the Single-Agent Exponential Bandit Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484498) (with [Stanton Hudja](http://stantonhudja.com)).
   
 Research Grants
 ======
+* Expense Support Grant, Institute for Humane Studies, 2023.
 * IFREE Small Grants Program, The International Foundation for Research in Experimental Economics, 2019.
 * Doctoral Research Funds Grant, Krannert School of Management, 2019.
 
@@ -80,6 +81,7 @@ Honors and Awards
   
 Conferences
 ======
+* Presented *Strategies in the Multi-armed Bandit* at the ESA European Meeting 2022.
 * Presented *Behavioral Bandits: Analyzing the Exploration Versus Exploitation Trade-off in the Lab* at the [ESA JMC Seminar Series](http://esajobmarketseminar.online/).
 * Presented *Using QRE Simulations for Power Analysis* at the ESA Global Meeting 2020.
 * Presented *Competition in Information: An Experimental Test of Bayesian Persuasion in Search Markets* at the Southern Economic Association Annual Meetings 2018, the Australia New Zealand Workshop in Experimental Economics 2018, and the ESA World Meeting 2019.
