@@ -17,10 +17,9 @@ Education
 
 Research Interests
 =======
-* Experimental Economics
 * Behavioral Economics
 * Computational Economics
-* Industrial Organization
+* Experimental Economics
 
 Publications
 ======
