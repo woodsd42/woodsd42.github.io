@@ -15,6 +15,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Working Papers:
 ------
+* [Personality Testing and the Public Goods Game](https://woodsd42.github.io/files/PTPGG.pdf) 
 * [Strategies in the Multi-armed Bandit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942930) (with [Stanton Hudja](http://stantonhudja.com)).
 
 Publications:
