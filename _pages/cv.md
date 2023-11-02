@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[PDF Version Here](https://woodsd42.github.io/files/JMCV_dwoods_291023.pdf)
+[Click here for a PDF version of my CV](https://woodsd42.github.io/files/JMCV_dwoods_291023.pdf)
 
 {% include base_path %}
 
