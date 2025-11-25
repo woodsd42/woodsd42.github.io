@@ -30,12 +30,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Working Papers
-======
-* [Strategies in the Multi-armed Bandit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3942930) (with [Stanton Hudja](http://stantonhudja.com)).
-  
 Research Grants
 ======
+* MQ Research Fellowship, Macquarie University, 2025.
 * Early Stage Funding, University of Innsbruck, 2023.
 * Expense Support Grant, Institute for Humane Studies, 2023.
 * IFREE Small Grants Program, The International Foundation for Research in Experimental Economics, 2019.
