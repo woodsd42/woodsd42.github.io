@@ -15,9 +15,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Working Papers:
 ------
-* [Personality Testing and the Public Goods Game](https://woodsd42.github.io/files/PTPGG.pdf) 
+* [Personality Testing and the Public Goods Game](https://woodsd42.github.io/files/PTPGG.pdf).
 * [Forced Experimentation](https://dx.doi.org/10.2139/ssrn.5159357) (with [Stanton Hudja](http://stantonhudja.com) and [Braxton Gately](https://jbgatelyecon.wixsite.com/website)).
-* [Examining Experimentation](https://dx.doi.org/10.2139/ssrn.5346974) (with [Stanton Hudja](http://stantonhudja.com))
+* [Examining Experimentation](https://dx.doi.org/10.2139/ssrn.5346974) (with [Stanton Hudja](http://stantonhudja.com)).
 
 Publications:
 ------
