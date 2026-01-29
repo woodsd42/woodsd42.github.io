@@ -15,9 +15,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Working Papers:
 ------
-* [Forced Experimentation](https://dx.doi.org/10.2139/ssrn.5159357) (with [Stanton Hudja](http://stantonhudja.com) and [Braxton Gately](https://jbgatelyecon.wixsite.com/website)). Forthcoming in the Journal of Economic Behavior & Organization.
+
 * [Personality Testing and the Public Goods Game](https://woodsd42.github.io/files/PTPGG.pdf).
 * [Examining Experimentation](https://dx.doi.org/10.2139/ssrn.5346974) (with [Stanton Hudja](http://stantonhudja.com)).
+* [Stable Experimentation? An Analysis of Multi-Armed Bandit Problems with Bundling]([https://dx.doi.org/10.2139/ssrn.5346974](https://dx.doi.org/10.2139/ssrn.5835062)) (with [Stanton Hudja](http://stantonhudja.com) and [Jason Ralston](https://jasondralston.com/)).
 
 Publications:
 ------
