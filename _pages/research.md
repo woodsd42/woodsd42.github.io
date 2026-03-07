@@ -16,7 +16,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Working Papers:
 ------
 
-* [Personality Testing and the Public Goods Game](https://woodsd42.github.io/files/PTPGG.pdf).
+* [Strategic Misrepresentation in Personality Testing: An Experimental Study using the Public Goods Game](https://woodsd42.github.io/files/PTPGG_JDM.pdf) - <i>forthcoming</i> in <i>Judgment and Decision Making</i>.
 * [Examining Experimentation](https://dx.doi.org/10.2139/ssrn.5346974) (with [Stanton Hudja](http://stantonhudja.com)).
 * [Stable Experimentation? An Analysis of Multi-Armed Bandit Problems with Bundling](https://dx.doi.org/10.2139/ssrn.5835062) (with [Stanton Hudja](http://stantonhudja.com) and [Jason Ralston](https://jasondralston.com/)).
 
